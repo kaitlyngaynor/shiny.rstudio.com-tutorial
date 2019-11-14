@@ -51,3 +51,7 @@ Create reactivity by using Inputs to build rendered Outputs
 * renderUI() = a shiny UI element
 
 Often a direct analog between render function and output function.
+
+## Getting app onto server
+
+Shinyapps.io - RStudio will host shiny apps for free. 
